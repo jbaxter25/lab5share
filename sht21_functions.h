@@ -1,8 +1,9 @@
 // sht21_functions.h 
 // Jordan Baxter 11.28.19
 //special defines and functions for the sht21 humidity and temperature sensor
-//This header file and the matching .c file were started from LM73 functions files
-//written by Roger Traylor.
+
+//**This header file and the matching .c file were started from LM73 functions files
+//written by Roger Traylor.**
 
 #define F_CPU 16000000UL
 #define TRUE  1

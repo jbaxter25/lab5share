@@ -1,4 +1,4 @@
-// lm73_functions.c       
+// sht21_functions.c       
 // Jordan Baxter
 
 #include <util/twi.h>

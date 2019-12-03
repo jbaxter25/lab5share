@@ -1,5 +1,6 @@
-//UART Functions for Mega 48 only
+//UART Functions for Mega 168 only
 //Roger Traylor 12.7.15
+//Modified for the m168p by Jordan Baxter 11.28.19
 //For controlling the UART and sending debug data to a terminal as an aid 
 //in debugging. Note that RX and TX lines are marked relative to the device
 //they are located on.
